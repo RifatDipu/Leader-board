@@ -1,0 +1,23 @@
+:root{
+    --header-color:#a089ff
+}
+
+
+
+
+.players{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.player{
+    display: flex;
+    
+
+}
+.player img{
+    height: 56px;
+    width: 56px;
+}
+h4{
+    color: var(--header-color);
+}

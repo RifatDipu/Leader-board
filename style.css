@@ -93,6 +93,7 @@ hr{
 .courserating{
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 
 }
 .fa-star.filled{
